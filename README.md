@@ -68,7 +68,7 @@ function loadScript(src) {
 ---
 ###  Сворачиваемый текст
 <details>
-	<summary style="cursor: pointer;margin-bottom: 10px;">Нажмите чтобы развернуть</summary>
+	<summary style="cursor: pointer;">Нажмите чтобы развернуть</summary>
 	<ul>
 		<li>Скрытый текст 1</li>
 		<li>Скрытый текст 2</li>
