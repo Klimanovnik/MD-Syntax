@@ -51,9 +51,9 @@ desc: "Символы '---', указанные в начале, заключа�
 ### Блок кода
 ```javascript
 function loadScript(src) {
-	let script = document.createElement('script');
-	script.src = src;
-	document.head.append(script);
+    let script = document.createElement('script');
+    script.src = src;
+    document.head.append(script);
 }
 ```
 
