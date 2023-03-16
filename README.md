@@ -89,8 +89,7 @@ graph TD
 
 ---
 ###  Дополнительно
-[Канал с уроками по Obsidian](https://www.youtube.com/@dy-sh)
-[Горячие клавиши, плагины и прочее](https://github.com/dy-sh/obsidian-wiki)
+[Канал с уроками по Obsidian](https://www.youtube.com/@dy-sh)<br>[Горячие клавиши, плагины и прочее](https://github.com/dy-sh/obsidian-wiki)
 
 
 
