@@ -92,7 +92,7 @@ graph TD
 [Канал с уроками по Obsidian](https://www.youtube.com/@dy-sh)<br>[Горячие клавиши, плагины и прочее](https://github.com/dy-sh/obsidian-wiki)
 
 
-![Alt text](https://sandbox.elfsightcdn.com/c50093b5-f99d-4cf0-8448-6af7497751ae) 
+<iframe width="100%" height="350px" src="https://sandbox.elfsightcdn.com/c50093b5-f99d-4cf0-8448-6af7497751ae"></iframe>
 
 
 
