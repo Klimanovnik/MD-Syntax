@@ -27,9 +27,11 @@ desc: "Символы '---', указанные в начале, заключа�
 ### Ссылки
 [Link](https://learn.javascript.ru/)
 
-![Alt text | 400](https://technovybor.ru/wa-data/public/shop/products/29/58/5829/images/12062/12062.970.jpg) 
-
 [Ссылка к элементу данной страницы (в браузере работает только для заголовков первого уровня)](#Заголовок-1)
+
+---
+### Картинка
+<img width="200px" src="https://cdn.nur.kz/images/1120/5dd5a34709561676.jpeg" alt="Собака Корги" />
 
 ---
 ### Таблица
