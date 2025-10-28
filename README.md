@@ -27,7 +27,7 @@ desc: "Символы '---', указанные в начале, заключа�
 ### Ссылки
 [Link](https://learn.javascript.ru/)
 
-![Alt text | 400](https://kartinkin.net/pics/uploads/posts/2022-08/1660356464_13-kartinkin-net-p-melburn-stolitsa-avstralii-krasivo-foto-13.jpg) 
+![Alt text | 400](https://technovybor.ru/wa-data/public/shop/products/29/58/5829/images/12062/12062.970.jpg) 
 
 [Ссылка к элементу данной страницы (в браузере работает только для заголовков первого уровня)](#Заголовок-1)
 
